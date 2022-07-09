@@ -20,11 +20,11 @@
 
   - **git config --list** (Verifica as configurações do seu git).
   - **git status** (Verifica as modificações que ouve no projeto).
-  - **git config --global --unset user.name ou user.email **(Comando para remover algum email ou nome que queira alterar).
+  - ** git config --global --unset user.name ou user.email ** (Comando para remover algum email ou nome que queira alterar).
 
- **(Comando para adicionar algum email ou nome que alterado no passo anterior de remover os dados).
-  - **git config --global --replace-all user.name "Your New Name"   
-  - **git config --global --replace-all user.email "Your new email"
+    (Comando para adicionar algum email ou nome que alterado no passo anterior de remover os dados).
+  - git config --global --replace-all user.name "Your New Name"   
+  - git config --global --replace-all user.email "Your new email"
 
   
 
